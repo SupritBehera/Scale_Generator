@@ -26,7 +26,7 @@ G# | 8
 A | 9
 A# | 10
 B | 11
-D | 12
+
 
 
 To increase or decrease the octave from the default fifth octave, add (12 * number of octaves increased) 
